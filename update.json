@@ -6,8 +6,10 @@
     "en": "The first release"
   },
   "release_sig": "BuiA5AsczaIo-_hcKwtpvUQEom-tuAEfUCN7UgOjDfdFILfnyDqLv8j7JC_TYyIMcXXTe4vJ0dWKL-1k2pPlBg",
-  "revoked": [],
-  "revoked_sig": "uj7y5-2_Lnb5lE9Fwy0ojMpNkzKMMj60dj_nM5TYVbgL059tcuwifOhdKCXqAIZQTEaYVtzrlpmNHaREdpO7CA",
+  "revoked": [
+    "550f2c77"
+  ],
+  "revoked_sig": "6Wp7HwkthpXaMNGH6PYwDb6mYmfBnbMioXNDw9vllwfTRgTYY2dNLpx0F2pAs25BpqAZPFrHA20Y-sjIHlPhDw",
   "payment": {
     "price": "400",
     "bank_name": "CIB",
